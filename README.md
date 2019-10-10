@@ -1,0 +1,2 @@
+# GenerateFlutterIcons
+Photoshop自动导出Flutter应用各尺寸Android和Iphone图标的脚本
